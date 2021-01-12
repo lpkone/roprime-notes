@@ -7,7 +7,7 @@ title:  РО Прайм заметки
 
 ## Гайды
 ### Общие гайды
-- [Памятка для новчичка](https://4gameforum.com/threads/845474/]
+- [Памятка для новчичка](https://4gameforum.com/threads/845474/)
 - [Популярные локации прокачивания персонажа 1-99](https://4gameforum.com/threads/843773/)
 - [Квест на перерождение (Адванс)](https://4gameforum.com/threads/836381/)
 
